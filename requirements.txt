@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+pytorch-forecasting
+pytorch-lightning
+fastapi
+uvicorn
+pydantic
+jupyter
